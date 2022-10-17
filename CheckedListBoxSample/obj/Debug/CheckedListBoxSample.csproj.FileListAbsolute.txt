@@ -1,0 +1,16 @@
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\bin\Debug\CheckedListBoxSample.exe.config
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\bin\Debug\CheckedListBoxSample.exe
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\bin\Debug\CheckedListBoxSample.pdb
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample.csprojAssemblyReference.cache
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\MainWindow.g.cs
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\App.g.cs
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample_MarkupCompile.cache
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample_MarkupCompile.lref
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\MainWindow.baml
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample.g.resources
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample.Properties.Resources.resources
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample.csproj.GenerateResource.cache
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample.csproj.CoreCompileInputs.cache
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample.exe
+D:\Documents\CheckedListBoxSample\CheckedListBoxSample\obj\Debug\CheckedListBoxSample.pdb
