@@ -23,12 +23,6 @@ namespace CheckedListBoxSample
         public MainWindow()
         {
             InitializeComponent();
-            this.DataContextChanged += MainWindow_DataContextChanged;
-        }
-
-        private void MainWindow_DataContextChanged(object sender, DependencyPropertyChangedEventArgs e)
-        {
-            Console.WriteLine("event");
         }
     }
 }
