@@ -16,6 +16,7 @@
                  ScrollViewer.HorizontalScrollBarVisibility="Disabled"
                  VerticalAlignment="Stretch"
                  ItemsSource="{Binding Items}"
+                 SelectionChanged="listBox_SelectionChanged"
                  SelectionMode="Multiple">
             <ListBox.ItemsPanel>
                 <ItemsPanelTemplate>
