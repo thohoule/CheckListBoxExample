@@ -20,9 +20,16 @@ namespace CheckedListBoxSample
     /// </summary>
     public partial class MainWindow : Window
     {
+        public event SelectionChangedEventHandler ItemChanged;
+    
         public MainWindow()
         {
             InitializeComponent();
+        }
+        
+        private void listBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ItemChanged?.Invoke(sender, e);
         }
     }
 }
