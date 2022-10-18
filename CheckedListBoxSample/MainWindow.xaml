@@ -16,7 +16,6 @@
                  ScrollViewer.HorizontalScrollBarVisibility="Disabled"
                  VerticalAlignment="Stretch"
                  ItemsSource="{Binding Items}"
-                 SelectionChanged="listBox_SelectionChanged"
                  SelectionMode="Multiple">
             <ListBox.ItemsPanel>
                 <ItemsPanelTemplate>
@@ -31,7 +30,8 @@
                         <Setter.Value>
                             <ControlTemplate TargetType="ListBoxItem">
                                 <CheckBox Margin="5,2"
-                                          IsChecked="{TemplateBinding IsSelected}">
+                                          IsChecked="{TemplateBinding IsSelected}"
+                                          Checked="CheckBox_Checked">
                                     <ContentPresenter />
                                 </CheckBox>
                             </ControlTemplate>
